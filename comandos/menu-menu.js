@@ -33,7 +33,7 @@ m.reply(`╭──────────────────
 //no me roben la decoracion, no tengo creatividad
 
 let menuA = `
-*╭━━❍𝐉𝐞𝐧𝐧𝐱𝐓𝐚𝐭𝐢❍━━╮*
+*╭━━❍𝐆𝐨𝐥𝐝𝐀𝐫𝐦𝐲𝐁𝐨𝐭❍━━╮*
 *┃ ╭━━━━━━━━━━━━━━━━╮*
 *┃ ┃ ╭┈────────────╮*
 *┃ ┃ │❍  𝐌𝐄𝐍𝐔 ❍*
@@ -44,7 +44,7 @@ let menuA = `
 *┃┃  ❍ ${ucapan()} ❍*
 *┃┣━━━━━━━━━━━━━━━━╾•*
 *┃┃ ▢ CREADOR DEL BOT:  ${creatorname}*
-*┃┃ ▢ NUMERO DEL CREADOR: wa.me/51928500082 (𝐍𝐎 𝐁𝐎𝐓)*
+*┃┃ ▢ NUMERO DEL CREADOR: wa.me/51961109600 (𝐍𝐎 𝐁𝐎𝐓)*
 *┃┃ ▢ VERSION » ${vs}*
 *┃┃ ▢ FECHA » ${week}, ${date}*
 *┃┃ ▢ TIEMPO ACTIVO » ${uptime}*
@@ -52,7 +52,7 @@ let menuA = `
 *┃┃ ▢ LENGUAJE » 𝐄𝐒𝐏𝐀𝐍̃𝐎𝐋*
 *┃┃ ▢ USUARIOS » ${Object.keys(global.db.data.users).length}*
 *┃╰━━━━━━━━━━━━━━━━╾•*
-*╰━━━╼𝐉𝐞𝐧𝐧𝐱𝐓𝐚𝐭𝐢╾━━━╯*`.trim()
+*╰━━━╼𝐆𝐨𝐥𝐝𝐀𝐫𝐦𝐲𝐁𝐨𝐭╾━━━╯*`.trim()
 
 let menuB = `
 *═〔 INFO DEL USUARIO 〕⬣═*
@@ -98,7 +98,7 @@ let menuB = `
 ┣ ➱_*minimo 30 miembros*_
 ┗━━━━━━━━━━━━━┛
 
-┌──「🖥️𝐒𝐄𝐑𝐁𝐎𝐓 - 𝐉𝐀𝐃𝐈𝐁𝐎𝐓」─
+┌──「🖥️𝐒𝐄𝐑𝐁𝐎𝐓 - 𝐆𝐨𝐥𝐝𝐀𝐫𝐦𝐲𝐁𝐨𝐭」─
 ├➢_${usedPrefix}serbot_
 ├➢_${usedPrefix}stop_
 ├➢_${usedPrefix}bots_
