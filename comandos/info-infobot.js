@@ -40,7 +40,7 @@ let info = `
 ╠➢ [👨‍🦯] *VELOCIDAD*: 
 ╠  *${speed} ms* 
 ╠
-╠═〘 𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ 〙 ═
+╠═〘 @goldarmy_fem 〙 ═
 `.trim() 
 conn.sendButton(m.chat, info, wm, pp, [
 ['📦 𝐆𝐑𝐔𝐏𝐎𝐒', '#grupos'],
