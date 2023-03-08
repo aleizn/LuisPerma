@@ -14,7 +14,7 @@ let handler = async (m, { conn, command }) => conn.sendButton(m.chat, `
 │ ▻ 𝙶𝚁𝚄𝙿𝙾 𝙳𝙴 𝙰𝙲𝚃𝚄𝙰𝙻𝙸𝚉𝙰𝙲𝙸𝙾𝙽𝙴𝚂 ◅
 ╰┈───────────────╯
 ╭━━━━━━━━━━━━━━━━━━━
-┃⇛ https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo ⇚
+┃⇛ https://chat.whatsapp.com/H7VuWo4aiEYLv23JFkifRP ⇚
 ╰━━━━━━━━━━━━━━━━━━━╯
 `.trim(), wm, media, [['💟 𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻 💟', '#menu']], m)
 handler.command = /^linkgc|grupos$/i
