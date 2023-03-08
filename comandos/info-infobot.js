@@ -22,8 +22,8 @@ let speed = neww - old
 let info = `
 ╠═〘 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 〙 ═
 ╠
-╠➢ [🤴🏻] *CREADOR: JennxTati*
-╠➢ [#️⃣] *NUMERO: +51 928 500 082*
+╠➢ [🤴🏻] *CREADOR: GOLDARMY*
+╠➢ [#️⃣] *NUMERO: +51 961 109 600*
 ╠➢ [🎳] *PREFIJO: ${usedPrefix}*
 ╠➢ [🔐] *CHATS PRIVADOS: ${chats.length - groups.length}*
 ╠➢ [🦜] *CHAT DE GRUPOS: ${groups.length}* 
